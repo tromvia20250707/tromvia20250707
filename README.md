@@ -20,4 +20,4 @@
 
 我们优化了CDN加速和移动端适配，让视频播放更顺畅，减少卡顿现象。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/tromvia20250707/tromvia20250707 ）</span>
